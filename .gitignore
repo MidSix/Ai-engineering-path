@@ -1,0 +1,12 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Optional: Obsidian workspace cache (recommended to ignore)
+.obsidian/workspace*
+.obsidian/cache
+.obsidian/graph.json
+.obsidian/hotkeys.json
+
+# If you use plugins that generate caches, ignore them too
+.obsidian/plugins/*/data.json

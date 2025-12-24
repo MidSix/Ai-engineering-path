@@ -122,7 +122,8 @@ flowchart LR
 Useful for:
 - group components
 - represent layers
-
+Note:
+- The `end` statement is only used with subgraphs.
 ---
 
 ## Type 2 — Sequence Diagram (temporal sequences)

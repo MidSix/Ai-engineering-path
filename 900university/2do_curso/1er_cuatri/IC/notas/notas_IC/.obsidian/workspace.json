@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "55dbfb2bb353868a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8ba9d40baacafbf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5cac15395499b4d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4b67c2eef0dfcd86",
+    "type": "split",
+    "children": [
+      {
+        "id": "86eca908b9e84f1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "227b5fdad09ee85b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e8f72310b3484e17",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e57626f5af08c7f2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c57cb5e8fb67e72d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3060960675558fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55b8878505f65a7e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "boletin4_ejercicio6.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for boletin4_ejercicio6"
+            }
+          },
+          {
+            "id": "2b3389dd6731e0cc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "boletin4_ejercicio6.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from boletin4_ejercicio6"
+            }
+          },
+          {
+            "id": "0ce29e05ecd90e2a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "afd914a667695d57",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "7feebfc1b813b49b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "boletin4_ejercicio6.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of boletin4_ejercicio6"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "c5cac15395499b4d",
+  "lastOpenFiles": [
+    "ley_de_amdahl.md",
+    "importancia_repertorio_instrucciones_ISA.md",
+    "ejemplo_calculo_mezcla_instrucciones.md",
+    "cpi_ciclos_por_instruccion.md",
+    "frecuencia_ciclos_reloj.md",
+    "practica4_2_ejercicio3.md",
+    "rendimiento_cpu_basico.md",
+    "aritmetica_binaria_sumar_restar_uno.md",
+    "sistemas_representacion_enteros_signo.md",
+    "numeros_desnormalizados_ieee754.md",
+    "representacion_direcciones_vs_valores.md",
+    "practica4_3_ejercicio3.md",
+    "sesgo_exponente_ieee754.md",
+    "paginacion_multinivel.md",
+    "practica4_3_ejercicio2.md",
+    "estructura_directorio_cache.md",
+    "flujo_acceso_memoria_cpu.md",
+    "boletin4_ejercicio8.md",
+    "boletin4_ejercicio6.md",
+    "Ejercicio8_tema_4_practica_4_1_IC.png",
+    "practica4_1_ejercicio8.md",
+    "memoria_entrelazada.md",
+    "tipos_de_correspondencia_cache.md",
+    "T4(memory) - IC.md",
+    "correspondencia_directa.md",
+    "notes/cache memory.md",
+    "boletin4_ejercicio7.md"
+  ]
+}

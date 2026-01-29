@@ -37,11 +37,11 @@ Thumbs.db
 !/900university/2do_curso/1er_cuatri/Redes/
 
 #permitir versionado de materias 2do cuatrimestre
-!/900university/2do_curso/1er_cuatri/ABIA/
-!/900university/2do_curso/1er_cuatri/ALF/
-!/900university/2do_curso/1er_cuatri/CCPD/
-!/900university/2do_curso/1er_cuatri/FAA/
-!/900university/2do_curso/1er_cuatri/RCR/
+!/900university/2do_curso/2do_cuatri/ABIA/
+!/900university/2do_curso/2do_cuatri/ALF/
+!/900university/2do_curso/2do_cuatri/CCPD/
+!/900university/2do_curso/2do_cuatri/FAA/
+!/900university/2do_curso/2do_cuatri/RCR/
 
 # Level 4
 /900university/2do_curso/1er_cuatri/alg/*
@@ -51,11 +51,11 @@ Thumbs.db
 /900university/2do_curso/1er_cuatri/OM/*
 /900university/2do_curso/1er_cuatri/Redes/*
 
-/900university/2do_curso/1er_cuatri/ABIA/*
-/900university/2do_curso/1er_cuatri/ALF/*
-/900university/2do_curso/1er_cuatri/CCPD/*
-/900university/2do_curso/1er_cuatri/FAA/*
-/900university/2do_curso/1er_cuatri/RCR/*
+/900university/2do_curso/2do_cuatri/ABIA/*
+/900university/2do_curso/2do_cuatri/ALF/*
+/900university/2do_curso/2do_cuatri/CCPD/*
+/900university/2do_curso/2do_cuatri/FAA/*
+/900university/2do_curso/2do_cuatri/RCR/*
 
 #permitir SOLO versionado de directorio notas dentro de 1er cuatri
 #2do curso
@@ -68,8 +68,8 @@ Thumbs.db
 
 #permitir SOLO versionado de directorio notas dentro de 2do cuatri
 #2do curso
-!/900university/2do_curso/1er_cuatri/ABIA/notas/
-!/900university/2do_curso/1er_cuatri/ALF/notas/
-!/900university/2do_curso/1er_cuatri/CCPD/notas/
-!/900university/2do_curso/1er_cuatri/FAA/notas/
-!/900university/2do_curso/1er_cuatri/RCR/notas/
+!/900university/2do_curso/2do_cuatri/ABIA/notas/
+!/900university/2do_curso/2do_cuatri/ALF/notas/
+!/900university/2do_curso/2do_cuatri/CCPD/notas/
+!/900university/2do_curso/2do_cuatri/FAA/notas/
+!/900university/2do_curso/2do_cuatri/RCR/notas/

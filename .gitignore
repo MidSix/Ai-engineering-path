@@ -1,14 +1,14 @@
 # System files
 /*
-!.gitignore
-.DS_Store
-Thumbs.db
+!/.gitignore
+
 # Optional: Obsidian workspace cache (recommended to ignore)
 .obsidian/*
 
 # Folders to not ignore:
 !/000assets/
 !/100technologies/
+!/300weekly_notes
 !/200programming_languages/
 
 # Deep structure whitelist for notes
